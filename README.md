@@ -1,8 +1,9 @@
 # Curso: TypeScript - parte 1
 
-### CONTEÚDO:
-
+<details>
+<summary><strong>Conteúdo do Curso</strong> </summary>
 <br/>
+<div style="display: inline_block">
 
 - Introdução ao projeto e sua estrutura MVC
 - Um pouco sobre módulos do ECMASCRIPT
@@ -28,3 +29,29 @@
 - O modificador readonly
 - Getters vs propriedades públicas em modo de leitura
 - Programação defensiva
+</div>
+  
+ </details>
+
+---
+
+### Tecnologias Utilizadas
+<div style="display: inline_block">
+  <br>
+   <img align="center" alt="logo typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+   <img align="center" alt="logo javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+   <img align="center" alt="logo html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
+   <img align="center" alt="logo css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
+   <img align="center" alt="logo bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"/>   
+   <img align="center" alt="logo nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
+   <img align="center" alt="logo git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>
+   <img align="center" alt="logo vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg"/>
+</div>
+
+---
+
+### Dependências
+ 
+  - <a href="https://www.npmjs.com/package/concurrently">Concurrently ^6.0.0</a>
+  - <a href="https://www.npmjs.com/package/lite-server">Lite-server ^2.6.1 </a>
+  - <a href="https://www.npmjs.com/package/typescript">TypeScript 4.2.2 </a>
