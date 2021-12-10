@@ -1,9 +1,9 @@
-# Curso: TypeScript - parte 1
+# Curso: TypeScript
 
 ### CONTEÚDO:
 
 <br/>
-
+##### Curso 1:
 - Introdução ao projeto e sua estrutura MVC
 - Um pouco sobre módulos do ECMASCRIPT
 - Modelagem de uma Negociação em Javascript
@@ -28,3 +28,5 @@
 - O modificador readonly
 - Getters vs propriedades públicas em modo de leitura
 - Programação defensiva
+
+##### Curso 2:
