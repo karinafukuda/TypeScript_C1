@@ -1,9 +1,10 @@
-# Curso: TypeScript - parte 1
+# Curso: TypeScript
 
 <details>
 <summary><strong>Conteúdo do Curso</strong> </summary>
 <br/>
 <div style="display: inline_block">
+<h3>Curso 1</h3>
 
 - Introdução ao projeto e sua estrutura MVC
 - Um pouco sobre módulos do ECMASCRIPT
@@ -29,8 +30,20 @@
 - O modificador readonly
 - Getters vs propriedades públicas em modo de leitura
 - Programação defensiva
-</div>
+  <br />
 
+<h3>Curso 2</h3>
+
+- Inspiração no React para criação de templates declarativos e dinâmicos
+- Manipulação declarativa do DOM através de template
+- Template dinâmico
+- Formatação de datas usando Intl
+- Herança com TypeScript
+- Classes com tipo genérico
+- Classes abstratas
+- O modificador protected
+
+</div>
 
  </details>
 
