@@ -42,10 +42,50 @@
 - Classes com tipo genérico
 - Classes abstratas
 - O modificador protected
+- Visibilidade de métodos
+- Validando negociações em dias úteis
+- Vantagens do uso de enums
+- Cuidados com enums
+- Revisão da lógica de conversão negociações
+- Método estáticos
+- Parâmetros opcionais
+- Remoção de comentários do código compilado
+- Ativação do strictNullChecks
+- Como suprimir erros, quando fizer sentido, resultantes do strictNullChecks
+- Benefícios do strictNullChecks no controle do fluxo da sua aplicação
 
 </div>
 
  </details>
+
+---
+
+<h3><strong>Como utilizar </strong></h3>
+<br/>
+
+Faça um clone deste projeto
+
+```
+git clone https://github.com/karinafukuda/TypeScript_C1.git
+```
+
+Vá até a pasta do projeto
+
+```
+cd typescript_curso1
+```
+
+Baixe as dependências
+
+```
+npm install
+```
+
+Para inicializar
+
+```
+npm run start
+```
 
 ---
 
