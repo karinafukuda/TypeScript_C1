@@ -54,6 +54,13 @@
 - Como suprimir erros, quando fizer sentido, resultantes do strictNullChecks
 - Benefícios do strictNullChecks no controle do fluxo da sua aplicação
 
+<h3>Curso 3</h3>
+
+- Introdução e estrutura do projeto
+- Requisitos não funcionais
+- Decorator de método
+- Logar tempo de execução com decorator
+
 </div>
 
  </details>

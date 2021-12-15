@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "lite-server --baseDir=dist",
+    "server": "lite-server --baseDir=app",
     "start": "concurrently \"npm run watch\" \"npm run server\"",
     "compiler": "tsc",
     "watch": "tsc -w"
   },
-  "author": "",
+  "author": "karinafukuda",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^6.0.0",
