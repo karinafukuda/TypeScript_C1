@@ -1,4 +1,3 @@
-import { NegociacaoController } from '../controllers/negociacao-controller';
 import { NegociacoesDoDia } from '../interfaces/negociacao-do-dia';
 import { Negociacao } from '../models/negociacao.js';
 
