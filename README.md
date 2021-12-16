@@ -60,6 +60,20 @@
 - Requisitos não funcionais
 - Decorator de método
 - Logar tempo de execução com decorator
+- Decorator com parâmetro
+- Criação de um decorator de inspeção
+- Ordem de execução dos decorators
+- Simplicação no design de decorators
+- Portabilidade de funcionalidade antiga para decorators
+- Como evitar código duplicado
+- Decorator de propriedade
+- Criação dinâmica de getters
+- O uso de Object.defineProperty
+- Cache de decorators
+- API externa
+- Consumindo API externa
+- Definindo uma interface para a API
+- Isolando o acesso à API em um serviço
 
 </div>
 
